@@ -1,4 +1,3 @@
-A junior developer has just accomplished a task suspicously fast...and went for lunch.
 There are now unit tests breaking on the build server and only you have the skills to fix it.
 
 You should 
